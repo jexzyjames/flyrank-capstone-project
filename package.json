@@ -1,6 +1,7 @@
 {
   "name": "flyrank-capstone-project",
   "private": true,
+  "version": "1.0.0",
   "version": "0.1.0",
   "type": "module",
   "scripts": {
