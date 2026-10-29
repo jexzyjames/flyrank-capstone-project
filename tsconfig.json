@@ -9,6 +9,8 @@
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
     "strict": true,
@@ -17,4 +19,5 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": ["src", "vite.config.ts"]
+  "include": ["src"]
 }
